@@ -28,5 +28,5 @@ ids <- paste(sample.ped$id, sample.ped$firstname, sep ="\n")
 # plot and save pdf file
 pdf(pdf.file)
 plot(ped1basic, id = ids, status = sample.ped$avail, 
-     affected = sample.ped$affected, cex = 0.5)
+     affected = sample.ped$affected, cex = 0.7)
 dev.off()

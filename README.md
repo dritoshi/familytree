@@ -1,8 +1,8 @@
-# Draw family tree in R/kinship2
+# Draw a family tree in R/kinship2
 
 ## Requirements
 * R
-* kinship2 package
+* [kinship2 package](http://cran.r-project.org/web/packages/kinship2/index.html)
 
 ## Usage
 
