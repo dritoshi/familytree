@@ -7,3 +7,7 @@
 ## Usage
 
     R -q -f familytree.R --args familytree.csv
+
+## Output
+Open familytree.pdf in your working directory.
+![familytree](https://raw.githubusercontent.com/dritoshi/familytree/master/familytree.png)
